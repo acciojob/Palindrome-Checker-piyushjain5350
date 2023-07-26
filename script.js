@@ -1,6 +1,6 @@
 // complete the given function
 
-function palindrome(str){
+function palindrome(s){
 
 	// var s=0;
 	// var e=str.length()-1;
